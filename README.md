@@ -36,16 +36,20 @@ Built using **HTML, CSS, JavaScript, and JSON**, this website provides a feature
 
 - **HTML** – Structure of the website.
 
-- 
+  
 - **CSS** – Styling and responsiveness.
 
-- 
+  
 - **JavaScript** – Adds interactivity and dynamic elements.
 
--   
+    
 - **JSON** – Handles data management efficiently.  
 
 ## 🚀 Getting Started  
+
+
+
+
 
 
 
